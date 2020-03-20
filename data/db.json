@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "Learning React",
+      "description": "This is a simple tutorial for learning React",
+      "id": 1
+    },
+    {
+      "title": "Cats playing",
+      "description": "Cute video of two cats playing",
+      "id": 2
+    },
+    {
+      "title": "Pencil drawing timelapse",
+      "description": "Drawing a tree in four minutes",
+      "id": 3
+    },
+    {
+      "title": "Mozart",
+      "description": "Playing violin for two years already, lovin' it!",
+      "userId": "108321503846688850867",
+      "id": 4
+    }
+  ]
+}
